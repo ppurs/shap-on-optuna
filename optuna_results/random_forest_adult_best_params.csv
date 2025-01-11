@@ -1,0 +1,2 @@
+n_estimators,max_depth,min_samples_split,min_samples_leaf,max_features,criterion,class_weight
+5016,641,17,1,sqrt,entropy,balanced

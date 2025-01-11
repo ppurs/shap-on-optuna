@@ -1,0 +1,2 @@
+learning_rate,max_depth,min_child_weight,gamma,n_estimators,subsample
+0.02312213958585093,32,6,0,462,0.6875720033014668

@@ -1,0 +1,2 @@
+hidden_layer_sizes,solver,learning_rate_init,batch_size,alpha,max_iter
+"(50, 25)",lbfgs,0.00026043986741217443,64,0.0006820933299027283,1915
