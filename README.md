@@ -1,6 +1,6 @@
 # **Shap on OPTUNA**
 
-Project developed as part of programming assignment for the *Explainable Artificial Inteligence* course at the Jagiellonian University.
+Project developed as part of a programming assignment for the *Explainable Artificial Intelligence* course at the Jagiellonian University.
 
 ## About
 The goal was to run hyperparameter optimization algorithm such as Optuna, collect results from it and use SHAP to try to explain the impact of different hyperparameters on the quality of the optimization process. Then, as a project extension, to use a rule-based explainer for the instance with the best score.
