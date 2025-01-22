@@ -11,7 +11,7 @@ Two models and datasets were selected for experiments:
 * RandomForestClassifier on Adult dataset
 * XGBoostRegressor on California housing dataset
 
-As a rule-based explainer, LORE was chosen.
+As the rule-based explainers, LORE and LUX were chosen. 
 
 ### Steps
 1. Optuna was run on a model and its corresponding dataset. 
@@ -25,6 +25,7 @@ As a rule-based explainer, LORE was chosen.
 6. For each model SHAP values were calculated on the results obtained in point 2.
 7. SHAP explanations were compared.
 8. LORE was run on the results from point 2, explanation and counterfactual explanations for given instance were obtained.
+9. As above, LUX was run on the results obtained in point 2.   
    
 :bangbang: **Charts from Optuna are not visible in the GitHub preview. To see them, you need to download the *project.ipynb* notebook.**
 
