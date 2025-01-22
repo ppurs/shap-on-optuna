@@ -1,0 +1,11 @@
+digraph mediationTree{
+8609575892909[label="",shape=box, color=black, image="./imgs/8609575892909.png"]8609575892909->8609575862649[label="<427.50
+ conf=1.0 "]
+8609575862649[label="",shape=box, color=red,image="./imgs/8609575862649.png"]8609575892909->8609575862725[label=">=427.50
+ conf=1.0 "]
+8609575862725[label="",shape=box, color=black, image="./imgs/8609575862725.png"]8609575862725->8609575858129[label="<314.50
+ conf=1.0 "]
+8609575858129[label="",shape=box, color=red,image="./imgs/8609575858129.png"]8609575862725->8609575858097[label=">=314.50
+ conf=1.0 "]
+8609575858097[label="",shape=box, color=red,image="./imgs/8609575858097.png"]
+}
